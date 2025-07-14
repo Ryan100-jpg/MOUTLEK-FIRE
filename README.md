@@ -1,4 +1,4 @@
-# Astro on Netlify Platform Starter
+# MOUTLEK FIRE
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
 
